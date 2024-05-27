@@ -1,0 +1,45 @@
+body{
+    margin:0;
+    padding:0;
+    
+}
+.header{
+        background-color: rgb(55, 61, 61);
+        display: flex;
+        align-items: center;
+        justify-content: space-around;
+}
+.title{
+    font-family: 'Open Sans', sans-serif;
+    color: rgb(255, 255, 255);
+}
+.title2{
+    font-family: 'Open Sans', sans-serif;
+    color: rgb(26, 154, 228);
+    display: flex flex;
+}
+
+.A1nav{
+    color: rgb(26, 154, 228);
+    font-family: 'Open Sans', sans-serif;
+    
+    
+}
+
+ul{
+    display: flex;
+    width: 100%;
+    gap: 20px;
+}
+ul li{
+    display:flex ;
+    list-style: none;
+
+}
+
+a{
+    display: flex;
+    text-decoration: none;
+    color:#ffff;
+    font-family: 'Open Sans', sans-serif;
+}
